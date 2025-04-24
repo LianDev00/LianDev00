@@ -92,12 +92,4 @@
 
 <br>
 
-<p><img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=LianDev00&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"
-    alt="adam-pw" /></p>
-
-<h6>README from:<br>
-  [Adam-pw](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Adam-pw.md)
-</h6>
-
 ![image](https://github.com/user-attachments/assets/a3717aea-6fa6-4fdd-8896-48a2a5796410)
