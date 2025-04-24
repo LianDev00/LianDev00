@@ -91,5 +91,3 @@
     alt="adam-pw" /></p>
 
 <br>
-
-![image](https://github.com/user-attachments/assets/a3717aea-6fa6-4fdd-8896-48a2a5796410)
