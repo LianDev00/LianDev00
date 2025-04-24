@@ -6,6 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
+
 - 🌱 Actualmente sigo aprendiendo desarrollo web y otros lenguajes de programación, pero tengo interés en el área de la Inteligencia Artificial 🤖.
 
 - 📫 Mi email: **liandev2000@gmail.com**
@@ -98,3 +99,5 @@
 <h6>README from:<br>
   [Adam-pw](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/Adam-pw.md)
 </h6>
+
+![image](https://github.com/user-attachments/assets/a3717aea-6fa6-4fdd-8896-48a2a5796410)
