@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy LianDev</h1>
-Desarrollador Web 🌐 y Analista de Datos 📃
+
+<h3 align="center"Desarrollador Web 🌐 y Analista de Datos 📃</h3>
 
 
 
