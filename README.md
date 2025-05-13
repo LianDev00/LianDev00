@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy LianDev</h1>
 
-<h3 align="center">Desarrollador Web 🌐 y Analista de Datos 📃</h3>
+<h3 align="center">Estudiante de Desarrollado Web 🌐 y Analista de Datos 📃</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liandev) 
