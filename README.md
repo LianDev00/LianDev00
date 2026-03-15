@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, LiaN</h1>
 
-<h3 align="center">AI Engineer in Progress 📃</h3>
+<h3 align="center">AI Engineer en Progreso 📃</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=flat-square&logo=openai&logoColor=white" />
