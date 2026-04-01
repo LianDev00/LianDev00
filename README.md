@@ -11,7 +11,7 @@
 
 ## 🧭 About Me
 
-Soy desarrollador .NET y estoy en transición hacia la ingeniería de IA, con especial interés en **sistemas LLM**, **análisis de datos** e **infraestructura en la nube**. Mi objetivo es diseñar e implementar aplicaciones de IA de nivel de producción, no solo llamar a APIs, sino también diseñar arquitecturas de sistemas fiables, medibles y eficientes.
+Fui desarrollador .NET y estoy en transición hacia la ingeniería de IA, con especial interés en **sistemas LLM**, **análisis de datos** e **infraestructura en la nube**. Mi objetivo es diseñar e implementar aplicaciones de IA de nivel de producción, no solo llamar a APIs, sino también diseñar arquitecturas de sistemas fiables, medibles y eficientes.
 
 Actualmente dedico mi tiempo a Python, pipelines de datos y a comprender el funcionamiento interno de los modelos de lenguaje complejos.
 <a href="https://linkedin.com/in/liandev">
@@ -42,10 +42,10 @@ Actualmente dedico mi tiempo a Python, pipelines de datos y a comprender el func
 Estoy siguiendo un programa estructurado de 18 a 24 meses para convertirme en **Ingeniero de Software de IA** especializado en sistemas LLM.
 ```
 Phase 0 — Consolidate Foundations     ████░░░░░░  In Progress
-  └─ Python · SQL · Data Analysis (WE Academy)
+  └─ Python · SQL · CS50P Harvard
 
 Phase 1 — Professional Python + LLMs  ░░░░░░░░░░  Upcoming
-  └─ APIs · CS50P Harvard · AWS AI Practitioner
+  └─ APIs · Data Analysis (WE Academy) · AWS AI Practitioner
 
 Phase 2 — LLM Engineering             ░░░░░░░░░░  Upcoming
   └─ RAG · Agents · Structured Outputs · Evals · AWS ML Associate
@@ -58,10 +58,10 @@ Phase 3 — Production Systems          ░░░░░░░░░░  Upcoming
 
 ## 🎯 Metas actuales
 
-- [ ] Curso completo de Análisis de Datos (Python, SQL, Power BI) — WE Academy
 - [ ] Finalizar CS50P — Harvard (Python)
+- [ ] Curso completo de Análisis de Datos (Python, SQL, Power BI) — WE Academy
 - [ ] Obtener la certificación **AWS Certified AI Practitioner**
-- [ ] Desarrollar el primer proyecto de maestría en derecho (LLM) con el SDK de Anthropic
+- [ ] Desarrollar el primer proyecto LLM con el SDK de Anthropic
 - [ ] Contribuir a un repositorio de herramientas de IA de código abierto
 
 ---
