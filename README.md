@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, LiaN</h1>
+<h1 align="center">Hola 👋, soy LiaN</h1>
 
 <h3 align="center">AI Engineer en Progreso 📃</h3>
 
