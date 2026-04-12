@@ -11,7 +11,7 @@
 
 ## 🧭 About Me
 
-Fui desarrollador .NET y estoy en transición hacia la ingeniería de IA, con especial interés en **sistemas LLM**, **análisis de datos** e **infraestructura en la nube**. Mi objetivo es diseñar e implementar aplicaciones de IA de nivel de producción, no solo llamar a APIs, sino también diseñar arquitecturas de sistemas fiables, medibles y eficientes.
+Fui desarrollador web y ahora estoy en transición hacia la ingeniería de IA, con especial interés en **sistemas LLM**, **análisis de datos** e **infraestructura en la nube**. Mi objetivo es diseñar e implementar aplicaciones de IA de nivel de producción, no solo llamar a APIs, sino también diseñar arquitecturas de sistemas fiables, medibles y eficientes.
 
 Actualmente dedico mi tiempo a Python, pipelines de datos y a comprender el funcionamiento interno de los modelos de lenguaje complejos.
 <a href="https://linkedin.com/in/liandev">
