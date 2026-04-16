@@ -14,9 +14,11 @@
 Desarrollador de software y ahora estoy en transición hacia la ingeniería de IA, con especial interés en **sistemas LLM**, **análisis de datos** e **infraestructura en la nube**. Mi objetivo es diseñar e implementar aplicaciones de IA de nivel de producción, no solo llamar a APIs, sino también diseñar arquitecturas de sistemas fiables, medibles y eficientes.
 
 Actualmente dedico mi tiempo a Python, pipelines de datos y a comprender el funcionamiento interno de los modelos de lenguaje complejos.
-<a href="https://linkedin.com/in/liandev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://linkedin.com/in/liandev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+  
 ---
 
 ## 🛠️ Tecnologias & Herramientas
